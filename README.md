@@ -50,7 +50,6 @@ The model follows a structured portfolio optimization process:
 | `Markowitz Portfolio Optimization.xlsx` | Excel workbook containing return calculations, summary statistics, covariance and correlation matrices, portfolio weights, optimization outputs, and investment opportunity set chart. |
 | `FIN411 Project.pptx`                   | Presentation summarizing the portfolio construction process, optimization methodology, performance metrics, and rationale for expected outperformance.                                 |
 | `README.md`                             | Project overview and documentation.                                                                                                                                                    |
-| `images/`                               | Folder containing preview images of the Excel model and investment opportunity set.                                                                                                    |
 
 ## Portfolio Analysis
 
@@ -63,17 +62,17 @@ The model evaluates portfolio performance using multiple risk-return measures, i
 * Jensen's alpha
 * Efficient frontier positioning
 
-The accompanying FIN 411 presentation also explains the broader portfolio construction process, including CAPM-based expected returns, summary statistics, tangency portfolio analysis, and performance metrics such as Sharpe ratio, beta, and Jensen's alpha.
+The accompanying FIN 411 presentation explains the broader portfolio construction process, including CAPM-based expected returns, summary statistics, tangency portfolio analysis, and performance metrics such as Sharpe ratio, beta, and Jensen's alpha.
 
 ## Tools Used
 
 * Microsoft Excel
+* PowerPoint
 * Portfolio optimization
 * Modern Portfolio Theory
 * Markowitz optimization
 * Risk-return analysis
 * Covariance and correlation analysis
-* PowerPoint
 
 ## Conclusion
 
